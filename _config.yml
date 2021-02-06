@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" #"default", "air", "aqua", "contrast", "dark", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,7 +20,7 @@ title                    : "Tracie Haan"
 title_separator          : "-"
 subtitle                 : "M.S. Biological Sciences" # site tagline that appears below site title in masthead
 name                     : "Tracie Haan"
-description              : "Biologist, Bioinformatician, and Research Assisnt at the University of Alaska Fairbanks"
+description              : "Biologist, Bioinformatician, and Research Assistant at the University of Alaska Fairbanks"
 url                      : "https://tjhaan.github.io"
 baseurl                  : "/" #the subpath of your site, e.g. "/blog"
 repository               : "tjhaan/tjhaan.github.io"
@@ -100,9 +100,6 @@ author:
   location         : "Alaska"
   email            : "tjhaan@alaska.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto: tjhaan@alaska.edu"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/tracie-haan-889927168"
