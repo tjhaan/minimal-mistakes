@@ -3,9 +3,9 @@ layout: single
 classes: wide
 title: Research
 author_profile: true
-permalink: /about/
+permalink: /research/
 header:
-  image: /assets/images/denali.jpg
+  overlay_image: /assets/images/denali.jpg
 feature_row1:
   - image_path: /assets/images/permafrost.jpg
     alt: "Boreal Forest"
@@ -23,22 +23,21 @@ feature_row2:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row3:
-  - image_path: /assets/images/bacteria.jpg
+  - image_path: /assets/images/bacteria.png
     alt: "Traits"
     title: "Microbial Traits"
     excerpt: "genomics."
     url: "/research2/#traits"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-
 ---
+# Research interests
 
-My primary research interests thus far revolve around how we can use genomics and big data science to address public health challenges, one health, and environmental change.
+My primary research interest are about we can use big data science, namely genomics, to address public health, one health, and environmental change.
 
 {% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
-
 

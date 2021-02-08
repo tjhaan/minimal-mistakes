@@ -5,7 +5,7 @@ title: Outreach
 author_profile: true
 permalink: /outreach/
 header:
-  image: /assets/images/denali.jpg
+  overlay_image: /assets/images/denali.jpg
 ---
 
 In my past experiences as an educator
@@ -28,10 +28,10 @@ My teaching philosophy is built upon the following:
 + Developed a multi-week workshop for undergraduates to screen soil microbes for antibiotic production
 + Taught basic to advanced microbiological and genomics skills
 + Published a paper based on the genomes of seven of the antibiotic producers
-+ paper: https://mra.asm.org/content/9/25/e00511-20
-+ website: https://sites.google.com/alaska.edu/akantibiotics/home 
++ paper: [https://mra.asm.org/content/9/25/e00511-20](https://mra.asm.org/content/9/25/e00511-20)
++ website: [https://sites.google.com/alaska.edu/akantibiotics/home](https://sites.google.com/alaska.edu/akantibiotics/home)
 
-**Student Learning Coach **
+**Student Learning Coach**
 *Tanana Middle School*
 
 + Developed online personalized learning intiatives for middle school students
@@ -40,8 +40,8 @@ My teaching philosophy is built upon the following:
 + Helped students develop year long community engagement project
 
 
-**Substitute Teacher **
-*Fairbanks North Star Borough School District *
+**Substitute Teacher**
+*Fairbanks North Star Borough School District*
 
 + Followed classroom plans left by teacher to continue student education and reinforce core concepts
 + Employed adaptability when dealing with unpredictability in the classroom
@@ -51,5 +51,7 @@ My teaching philosophy is built upon the following:
 
 # Outreach Events
 
-**Evolution of Molecules and Cells** 
+**Living in a Microbial World 2nd Grade Outreach** 
 describe here
+
+**Designing a Yeast Experiment** 
