@@ -5,7 +5,7 @@ title: Outreach
 author_profile: true
 permalink: /outreach/
 header:
-  overlay_image: /assets/images/denali.jpg
+  overlay_image: /assets/images/denali.jpeg
 ---
 
 In my past experiences as an educator
