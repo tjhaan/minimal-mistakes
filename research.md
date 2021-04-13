@@ -8,9 +8,9 @@ header:
   overlay_image: /assets/images/denali.jpeg
 feature_row1:
   - image_path: /assets/images/Core.png
-    alt: "Phylogenetic tree depicting Metagenomic Assembled Genomes and associated resitance genes."
-    title: "Antibiotic Resistance in Active Layer Bacteria"
-    excerpt: "The global spread of antibiotic resistance in pathogenic bacteria is a crisis at the forefront of public health today. Many of our antibiotics used clinically are derived from secondary metabolites produced by soil bacteria making soils a reservoir of both antibiotic producing and resistant bacteria. In the arctic climate change and soil disturbances, like wildfires, augment permafrost thaw which changes the physical and chemical properties of overlying active layer soils.  These changes shift microbial communities in return shifting the abundance and types of antibiotic resistance genes comprising the resistome. In this research I use genomics to examine how disturbance induced thaw affects the resistome of active layer soil communities."
+    alt: "Soil core collection."
+    title: "Antibiotic Resistance in Alaskan Soil Bacteria"
+    excerpt: "The global spread of antibiotic resistance in pathogenic bacteria is a crisis at the forefront of public health today. Many of the antibiotics used clinically are derived from secondary metabolites produced by soil microbes implicating soils as a reservoir of both antibiotic producing and resistant bacteria. In the arctic climate change and soil disturbances, like wildfires, augment permafrost thaw which changes the physical and chemical properties of overlying active layer soils. These changes shift microbial communities in return shifting the abundance and types of antibiotic resistance genes comprising the resistome. In this research I use genomics to examine how disturbance induced thaw affects the resistome of Alaskan soil communities."
     url: "/research/antibioticresistance"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -32,7 +32,7 @@ feature_row3:
     btn_label: "Learn more"  
 ---
 
-My current research interests revolve around how we can address the intersectionality of environmental, animal, and human health through the lens of genomics.  Below are more in depth and specific overviews of various aspects of my current work.
+My current research interests revolve around how we can address the intersectionality of environmental, animal, and human health through the lens of genomics and data science.  Below are overviews of various aspects of my current work.
 
 {% include feature_row id="feature_row1" type="left" %}
 
