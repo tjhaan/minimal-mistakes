@@ -27,7 +27,7 @@ feature_row3:
     alt: "Thawing permafrost on the edge of a cliff face."
     title: "One Health In a Changing World"
     excerpt: "Disease outbreaks over the past century have recurrently threatened global public health, animal health and biodiversity conservation. The zoonoses such as SARS, Ebola, Zika, swine and avian flu highlight the link between animal and human health.  It is increasingly apparent that a one health approach to science that takes into account human, animal and ecological health will be increasingly important for understanding how anthropogenic activities including globalization, climate change, land use change and urbanization will lead to the emergence of novel diseases."
-    url: "/research2/#traits"
+    url: "/research/onehealth"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 ---
